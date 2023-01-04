@@ -4,7 +4,7 @@
     "url": "https://www.luniverse.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.luniverse.io.ico",
     "slug": "luniverse-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1044,
     "timeMonth": 1063,
     "timeYear": 1063,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
   },
   {
     "name": "Mainnet Block Explorer API",
