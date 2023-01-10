@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.luniverse.io.ico",
     "slug": "luniverse-io",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
-    "time": 1086,
-    "timeDay": 1392,
-    "timeWeek": 1136,
-    "timeMonth": 1079,
-    "timeYear": 1086,
+    "uptime": "99.92%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1093,
+    "timeDay": 1197,
+    "timeWeek": 1161,
+    "timeMonth": 1077,
+    "timeYear": 1093,
     "dailyMinutesDown": {
-      "2023-01-09": 45
+      "2023-01-09": 37
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 757,
-    "timeDay": 599,
-    "timeWeek": 725,
-    "timeMonth": 760,
-    "timeYear": 757,
+    "time": 758,
+    "timeDay": 760,
+    "timeWeek": 721,
+    "timeMonth": 759,
+    "timeYear": 758,
     "dailyMinutesDown": {}
   }
 ]
